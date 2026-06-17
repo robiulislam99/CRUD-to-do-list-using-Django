@@ -1,0 +1,44 @@
+# Python
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+
+venv/
+env/
+ENV/
+
+# Django
+
+*.log
+db.sqlite3
+media/
+
+# Environment variables
+
+.env
+
+# VS Code
+
+.vscode/
+
+# Mac
+
+.DS_Store
+
+# Linux
+
+*.swp
+
+# Static files (optional)
+
+staticfiles/
+
+# Migrations (optional, keep if needed)
+
+# */migrations/*
+
+# !*/migrations/**init**.py
